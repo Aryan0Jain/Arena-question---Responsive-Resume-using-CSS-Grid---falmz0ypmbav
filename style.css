@@ -19,14 +19,14 @@ body{
 }
 .main-content .left-section{
     background-color: #242531;
-    /* grid-column: 1/2; */
+    grid-column: span 1 / auto;
     padding: 1rem;
     /* text-align: center; */
     color: white;
 }
 .main-content .right-section{
     background-color: #f7f7f7;
-    /* grid-column: 2/3; */
+    grid-column: span 1 / span 2;
 }
 .profile{
     text-align: center;
