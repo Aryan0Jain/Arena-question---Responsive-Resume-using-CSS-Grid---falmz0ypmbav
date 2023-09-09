@@ -88,12 +88,11 @@ body{
     background-color: white;
     border-radius: 4px;
 }
-.right-section{
-    padding: 2rem 3rem;
-}
+/* .right-section{
+} */
 .right-main-content{
+    padding: 2rem 3rem;
     /* border: 1px solid blue; */
-    padding: 0.5rem;
 }
 .right-title{
     font-size: 1.2rem;
@@ -119,7 +118,7 @@ body{
     grid-template-columns: 75% 25%;
     gap: 20px;
 }
-.name, .year{
+.school-name, .year{
     font-size: 0.8rem;
     text-align: center;
 }
