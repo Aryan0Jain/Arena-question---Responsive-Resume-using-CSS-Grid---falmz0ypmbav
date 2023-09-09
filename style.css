@@ -118,7 +118,7 @@ body{
     grid-template-columns: 75% 25%;
     gap: 20px;
 }
-.school-name, .year{
+.school-name{
     font-size: 0.8rem;
     text-align: center;
 }
